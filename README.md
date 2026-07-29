@@ -29,7 +29,7 @@ Accessing timely healthcare in remote and rural areas is a critical challenge. *
 
 ---
 
-## 📂 Project Architecture & future scope & author
+## 📂 Project Architecture 
 
 ```text
 Healthcare-Assistant/
@@ -42,7 +42,7 @@ Healthcare-Assistant/
 │   └── App.tsx          # Main entry & route definitions
 ├── package.json         # Dependencies & project scripts
 └── vite.config.ts       # Vite bundler configuration
-
+```
 ---
 
 ## 🔮 Future Scope & Roadmap

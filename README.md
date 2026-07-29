@@ -29,7 +29,7 @@ Accessing timely healthcare in remote and rural areas is a critical challenge. *
 
 ---
 
-## 📂 Project Architecture
+## 📂 Project Architecture & future scope & author
 
 ```text
 Healthcare-Assistant/

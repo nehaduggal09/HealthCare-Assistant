@@ -56,5 +56,7 @@ We are continuously working on improving **CarePulse** to expand healthcare acce
 * **📅 Telemedicine & Appointment Scheduling:** Direct video/audio integration for remote doctor consultations and instant booking.
 * **📊 Analytics Dashboard for Health Officials:** Real-time data visualization to track regional disease outbreaks and medicine supply chains.
 
+---
+
 ## Author
 NEHA DUGGAL
